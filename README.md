@@ -1,4 +1,4 @@
 # SvelteThesis
 
-## Repository for Svelte Thesis
+## Repository for Svelte Thesis work
 
